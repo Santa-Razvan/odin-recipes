@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(228, 185, 105);
+    font-family: monospace;
+    color: blue;
+    text-align: center;
+}
+
+li{
+    text-align: left;
+}
+
+h1{
+    color:black;
+    font-size: 50px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2{
+    font-style: oblique;
+    color:black;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p{
+    padding-left: 20px;
+}
